@@ -1,0 +1,5 @@
+# Write it!
+Style/ReplaceElsif:
+  Description: "elsif can be replaced by case when"
+  Enabled: true
+  VersionAdded: "0.1.0"
